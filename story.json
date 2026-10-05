@@ -1,0 +1,98 @@
+{
+  "sections": [
+    {
+      "key": "intro",
+      "title": "Bridging the Gap: Active Transportation and Micromobility Connectivity in Orangeburg, South Carolina",
+      "body": "Orangeburg\u2019s university district contains several major destinations within relatively short distances, including South Carolina State University, Claflin University, Railroad Corner, and downtown Orangeburg. Walking, bicycling, and micromobility can provide practical alternatives for short trips between these destinations, but their usefulness depends on whether safe and continuous facilities are available. This project evaluates active transportation and micromobility connectivity within the university-to-downtown corridor and identifies locations where targeted improvements could strengthen the network.",
+      "center": null,
+      "zoom": 12
+    },
+    {
+      "key": "sec:c7cb0bf42b",
+      "title": "Problem Background",
+      "body": "Orangeburg\u2019s transportation planning documents recognize the importance of pedestrian and bicycle infrastructure, including sidewalks, bicycle facilities, shared-use paths, and improved crossings. The issue is particularly important in the university-to-downtown corridor, where South Carolina State University, Claflin University, Railroad Corner, and downtown destinations are located close to one another. The transportation challenge is not simply the absence of one type of facility, but whether the overall network provides continuous and appropriate accommodation for pedestrians, bicyclists, and micromobility users.",
+      "center": [
+        -80.8554334581755,
+        33.495243518448994
+      ],
+      "zoom": 16
+    },
+    {
+      "key": "sec:41b036501b",
+      "title": "Existing Conditions",
+      "body": "The existing transportation network includes sidewalks, footways, local streets, major roadways, and rail infrastructure. Pedestrian facilities are more common than dedicated bicycle or micromobility facilities, and several corridors contain gaps or discontinuities. The railroad and major roadways also create physical barriers between the university district and downtown.",
+      "center": [
+        -80.85559669742854,
+        33.49598250877483
+      ],
+      "zoom": 16
+    },
+    {
+      "key": "sec:ed588163eb",
+      "title": "Crash and Roadway Context",
+      "body": "Ten pedestrian- or pedalcycle-involved crashes were identified within the selected study area. Eight involved pedestrians and two involved pedalcycles. Nine crashes resulted in injury, while one was classified as property-damage-only. No fatal crashes were recorded within the study area. The crash records cover 2015 through September 2026; therefore, 2026 represents partial-year data.\n\nChestnut Street had the largest concentration within the study area, with three pedestrian- or pedalcycle-involved crashes. Magnolia Street contained two pedestrian crashes, while additional crashes occurred on or near John C. Calhoun Drive and Russell Street.",
+      "center": [
+        -80.85466390169687,
+        33.495506055208175
+      ],
+      "zoom": 16
+    },
+    {
+      "key": "sec:0a6f67d15b",
+      "title": "Chestnut Street - High Priority",
+      "body": "Chestnut Street combines relatively high traffic exposure, higher posted speeds, active transportation demand, and documented pedestrian and pedalcycle crash history. Three study-area crashes occurred along the corridor. The roadway carries approximately 17,600 vehicles per day and has posted speeds reaching approximately 45 mph in the study area. These conditions support consideration of improved pedestrian crossings and separated or shared-use bicycle and micromobility facilities where feasible.",
+      "center": [
+        -80.84478792688769,
+        33.50199143275989
+      ],
+      "zoom": 17
+    },
+    {
+      "key": "sec:37a595a4e4",
+      "title": "John C. Calhoun Drive \u2014 High Priority",
+      "body": "Multiple crashes occurred on or near John C. Calhoun Drive, which functions as a major roadway near downtown Orangeburg. The corridor can create a crossing barrier for pedestrians and micromobility users traveling between destinations on opposite sides of the roadway. Improved crossing visibility, pedestrian signal treatments, lighting, and refuge treatments should be considered where appropriate.",
+      "center": [
+        -80.85856998382326,
+        33.48938485220132
+      ],
+      "zoom": 17
+    },
+    {
+      "key": "sec:8884761160",
+      "title": "Magnolia Street \u2014 Medium Priority",
+      "body": "Magnolia Street carries lower traffic volumes than Chestnut Street but remains an important connection between downtown, Railroad Corner, and the university area. Two pedestrian crashes were identified along the corridor. The primary concern is therefore not traffic volume alone, but the combination of pedestrian activity, crossing needs, and limited dedicated bicycle or micromobility accommodation.",
+      "center": [
+        -80.85506033988278,
+        33.49836473727767
+      ],
+      "zoom": 17
+    },
+    {
+      "key": "sec:8cddf3c7d8",
+      "title": "Russell Street / Railroad Corner \u2014 Medium Priority",
+      "body": "Russell Street and Railroad Corner form a strategic connection between the university district and downtown. Traffic volumes are moderate, but the corridor is influenced by roadway intersections, rail infrastructure, and discontinuities in the active transportation network. A continuous multimodal connection through this area could improve access between the campuses and downtown.",
+      "center": [
+        -80.85573661678828,
+        33.49325501973848
+      ],
+      "zoom": 17
+    },
+    {
+      "key": "sec:ff9d8158e9",
+      "title": "Proposed Improvements",
+      "body": "The proposed improvements are planning-level recommendations based on crash history, traffic exposure, posted speed, observed infrastructure continuity, and corridor function. They are not final engineering designs and would require additional feasibility, right-of-way, and design analysis.\n\nRecommended treatments include improved pedestrian crossings, high-visibility markings, lighting, refuge treatments where feasible, dedicated or separated bicycle and micromobility facilities, and a more continuous multimodal connection through Railroad Corner.",
+      "center": [
+        -80.85527021892246,
+        33.49520462404659
+      ],
+      "zoom": 16
+    },
+    {
+      "key": "sec:432bc7ece3",
+      "title": "Conclusion",
+      "body": "The analysis shows that Orangeburg\u2019s active transportation challenge is not simply the absence of one type of facility, but the continuity and suitability of the overall network. Several key corridors combine pedestrian and bicycle crash history, roadway exposure, and gaps in dedicated infrastructure. Targeted improvements along Chestnut Street, John C. Calhoun Drive, Magnolia Street, and Russell Street/Railroad Corner could strengthen connectivity between South Carolina State University, Claflin University, Railroad Corner, and downtown Orangeburg.",
+      "center": null,
+      "zoom": 12
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "layers": [
+    {
+      "id": "study-area",
+      "name": "Study Area",
+      "type": "vector",
+      "sld": "sld/study-area.sld"
+    },
+    {
+      "id": "railroad",
+      "name": "Railroad",
+      "type": "vector",
+      "sld": "sld/railroad.sld"
+    },
+    {
+      "id": "path",
+      "name": "Path",
+      "type": "vector",
+      "sld": "sld/path.sld"
+    },
+    {
+      "id": "footways",
+      "name": "Footways",
+      "type": "vector",
+      "sld": "sld/footways.sld"
+    },
+    {
+      "id": "infrastructure-gaps",
+      "name": "Infrastructure Gaps",
+      "type": "vector",
+      "sld": "sld/infrastructure-gaps.sld"
+    },
+    {
+      "id": "proposed-improvements",
+      "name": "Proposed Improvements",
+      "type": "vector",
+      "sld": "sld/proposed-improvements.sld"
+    },
+    {
+      "id": "pedestrian-bicycle-crashes",
+      "name": "Pedestrian & Bicycle Crashes",
+      "type": "vector",
+      "sld": "sld/pedestrian-bicycle-crashes.sld"
+    },
+    {
+      "id": "key-destinations",
+      "name": "Key Destinations",
+      "type": "vector",
+      "sld": "sld/key-destinations.sld"
+    }
+  ]
+}
