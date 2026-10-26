@@ -1,0 +1,144 @@
+{
+  "version": 3,
+  "title": "Bridging the Gap: Active Transportation and Micromobility Connectivity in Orangeburg, South Carolina",
+  "layers": [
+    {
+      "type": "vector",
+      "renderMode": "image",
+      "order": 0,
+      "id": "study-area",
+      "name": "Study Area",
+      "bbox": [
+        -80.8664047585092,
+        33.48661292812842,
+        -80.84108125064988,
+        33.5038130400867
+      ],
+      "opacity": 1.0,
+      "image": "images/study-area.png",
+      "imageWidth": 4096,
+      "imageHeight": 3336
+    },
+    {
+      "type": "vector",
+      "renderMode": "image",
+      "order": 1,
+      "id": "railroad",
+      "name": "Railroad",
+      "bbox": [
+        -80.8558817341243,
+        33.49338861864289,
+        -80.85557149868959,
+        33.49688826920178
+      ],
+      "opacity": 1.0,
+      "image": "images/railroad.png",
+      "imageWidth": 299,
+      "imageHeight": 4096
+    },
+    {
+      "type": "vector",
+      "renderMode": "image",
+      "order": 2,
+      "id": "path",
+      "name": "Path",
+      "bbox": [
+        -80.8576438,
+        33.4935671,
+        -80.8571657,
+        33.4941195
+      ],
+      "opacity": 1.0,
+      "image": "images/path.png",
+      "imageWidth": 3545,
+      "imageHeight": 4096
+    },
+    {
+      "type": "vector",
+      "renderMode": "image",
+      "order": 3,
+      "id": "footways",
+      "name": "Footways",
+      "bbox": [
+        -80.8666608,
+        33.4882037,
+        -80.8440064,
+        33.5021215
+      ],
+      "opacity": 1.0,
+      "image": "images/footways.png",
+      "imageWidth": 4096,
+      "imageHeight": 2516
+    },
+    {
+      "type": "vector",
+      "renderMode": "image",
+      "order": 4,
+      "id": "infrastructure-gaps",
+      "name": "Infrastructure Gaps",
+      "bbox": [
+        -80.86530626839428,
+        33.488853975276946,
+        -80.84114575431124,
+        33.50381123695161
+      ],
+      "opacity": 1.0,
+      "image": "images/infrastructure-gaps.png",
+      "imageWidth": 4096,
+      "imageHeight": 3041
+    },
+    {
+      "type": "vector",
+      "renderMode": "image",
+      "order": 5,
+      "id": "proposed-improvements",
+      "name": "Proposed Improvements",
+      "bbox": [
+        -80.865398645391,
+        33.48659232490034,
+        -80.84109921695556,
+        33.50383551186521
+      ],
+      "opacity": 1.0,
+      "image": "images/proposed-improvements.png",
+      "imageWidth": 4096,
+      "imageHeight": 3485
+    },
+    {
+      "type": "vector",
+      "renderMode": "image",
+      "order": 6,
+      "id": "pedestrian-bicycle-crashes",
+      "name": "Pedestrian & Bicycle Crashes",
+      "bbox": [
+        -80.86251944,
+        33.48691944,
+        -80.84231944,
+        33.50087778
+      ],
+      "opacity": 1.0,
+      "image": "images/pedestrian-bicycle-crashes.png",
+      "imageWidth": 4096,
+      "imageHeight": 2830
+    },
+    {
+      "type": "vector",
+      "renderMode": "image",
+      "order": 7,
+      "id": "key-destinations",
+      "name": "Key Destinations",
+      "bbox": [
+        -80.86010756836752,
+        33.49161749433295,
+        -80.84953439747345,
+        33.49947962309381
+      ],
+      "opacity": 1.0,
+      "image": "images/key-destinations.png",
+      "imageWidth": 4096,
+      "imageHeight": 3652
+    }
+  ],
+  "story": "story.json",
+  "legend": "legend.json"
+}
